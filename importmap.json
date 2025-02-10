@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "@sony-ci/root-config": "http://monolith.com/sony-ci-root-config.js",
+	"@sony-ci/root-config/": "http://monolith.com/",
+    "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@6.0.3/lib/es2015/esm/single-spa.min.js"
+  }  
+}
