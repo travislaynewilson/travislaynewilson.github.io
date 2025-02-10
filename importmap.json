@@ -6,6 +6,6 @@
 	"@sony-ci/login/": "https://travislaynewilson.github.io/login/",
     "@sony-ci/root-config": "https://travislaynewilson.github.io/sony-ci-root-config.js",
 	"@sony-ci/root-config/": "https://travislaynewilson.github.io/",
-    "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@6.0.3/lib/es2015/esm/single-spa.min.js"
+    "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@6.0.3/lib/es2015/esm/single-spa.min.js",
   }  
 }
