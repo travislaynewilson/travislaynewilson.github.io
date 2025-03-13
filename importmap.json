@@ -4,6 +4,16 @@
 	"@sony-ci/styleguide/": "https://travislaynewilson.github.io/styleguide/",
 	"@sony-ci/login": "https://travislaynewilson.github.io/login/spa.js",
 	"@sony-ci/login/": "https://travislaynewilson.github.io/login/",
+
+	  "@sony-ci/angularjs": "https://travislaynewilson.github.io/angularjs/spa.js",
+	"@sony-ci/angularjs/": "https://travislaynewilson.github.io/angularjs/",
+
+	  "@sony-ci/vue2": "https://travislaynewilson.github.io/vue2/spa.js",
+	"@sony-ci/vue2/": "https://travislaynewilson.github.io/vue2/",
+
+	  "@sony-ci/vue3": "https://travislaynewilson.github.io/vue3/spa.js",
+	"@sony-ci/vue3/": "https://travislaynewilson.github.io/vue3/",
+	  
     "@sony-ci/root-config": "https://travislaynewilson.github.io/sony-ci-root-config.js",
 	"@sony-ci/root-config/": "https://travislaynewilson.github.io/",
     "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@6.0.3/lib/es2015/esm/single-spa.min.js",
